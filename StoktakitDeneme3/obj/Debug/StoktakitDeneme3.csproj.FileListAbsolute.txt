@@ -1,0 +1,15 @@
+C:\Users\yahya\OneDrive\Masaüstü\StoktakitDeneme3\StoktakitDeneme3\bin\Debug\StoktakitDeneme3.exe.config
+C:\Users\yahya\OneDrive\Masaüstü\StoktakitDeneme3\StoktakitDeneme3\bin\Debug\StoktakitDeneme3.exe
+C:\Users\yahya\OneDrive\Masaüstü\StoktakitDeneme3\StoktakitDeneme3\bin\Debug\StoktakitDeneme3.pdb
+C:\Users\yahya\OneDrive\Masaüstü\StoktakitDeneme3\StoktakitDeneme3\obj\Debug\StoktakitDeneme3.csprojAssemblyReference.cache
+C:\Users\yahya\OneDrive\Masaüstü\StoktakitDeneme3\StoktakitDeneme3\obj\Debug\StoktakitDeneme3.Form1.resources
+C:\Users\yahya\OneDrive\Masaüstü\StoktakitDeneme3\StoktakitDeneme3\obj\Debug\StoktakitDeneme3.Properties.Resources.resources
+C:\Users\yahya\OneDrive\Masaüstü\StoktakitDeneme3\StoktakitDeneme3\obj\Debug\StoktakitDeneme3.csproj.GenerateResource.cache
+C:\Users\yahya\OneDrive\Masaüstü\StoktakitDeneme3\StoktakitDeneme3\obj\Debug\StoktakitDeneme3.csproj.CoreCompileInputs.cache
+C:\Users\yahya\OneDrive\Masaüstü\StoktakitDeneme3\StoktakitDeneme3\obj\Debug\StoktakitDeneme3.exe
+C:\Users\yahya\OneDrive\Masaüstü\StoktakitDeneme3\StoktakitDeneme3\obj\Debug\StoktakitDeneme3.pdb
+C:\Users\yahya\OneDrive\Masaüstü\StoktakitDeneme3\StoktakitDeneme3\obj\Debug\StoktakitDeneme3.AlisSayfasi.resources
+C:\Users\yahya\OneDrive\Masaüstü\StoktakitDeneme3\StoktakitDeneme3\obj\Debug\StoktakitDeneme3.GirisSayfasi.resources
+C:\Users\yahya\OneDrive\Masaüstü\StoktakitDeneme3\StoktakitDeneme3\obj\Debug\StoktakitDeneme3.Kullanicilar.resources
+C:\Users\yahya\OneDrive\Masaüstü\StoktakitDeneme3\StoktakitDeneme3\obj\Debug\StoktakitDeneme3.SatisSayfasi.resources
+C:\Users\yahya\OneDrive\Masaüstü\StoktakitDeneme3\StoktakitDeneme3\obj\Debug\StoktakitDeneme3.StokSayfasi.resources
